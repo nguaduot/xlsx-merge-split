@@ -1,0 +1,43 @@
+{
+    "FixedFileInfo": {
+        "FileVersion": {
+            "Major": 1,
+            "Minor": 2,
+            "Patch": 0,
+            "Build": 3
+        },
+        "ProductVersion": {
+            "Major": 1,
+            "Minor": 2,
+            "Patch": 0,
+            "Build": 3
+        },
+        "FileFlagsMask": "3f",
+        "FileFlags": "00",
+        "FileOS": "040004",
+        "FileType": "01",
+        "FileSubType": "00"
+    },
+    "StringFileInfo": {
+        "Comments": "Excel split CLI tool",
+        "CompanyName": "nguaduot",
+        "FileDescription": "Excel Split2Csv",
+        "FileVersion": "1.2.260113",
+        "InternalName": "excel-split2csv",
+        "LegalCopyright": "Copyright (c) 2026 nguaduot",
+        "LegalTrademarks": "",
+        "OriginalFilename": "excel-split2csv.exe",
+        "PrivateBuild": "",
+        "ProductName": "Excel Split2Csv",
+        "ProductVersion": "1.2.260113",
+        "SpecialBuild": ""
+    },
+    "VarFileInfo": {
+        "Translation": {
+            "LangID": "0804",
+            "CharsetID": "04B0"
+        }
+    },
+    "IconPath": "icon.ico",
+    "ManifestPath": ""
+}
